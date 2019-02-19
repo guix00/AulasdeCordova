@@ -1,2 +1,4 @@
 # AulasdeCordova
-This contains all about my Cordova's Projects 
+This contains all about my Cordova's Projects and everything 
+
+
